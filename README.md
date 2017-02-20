@@ -4,7 +4,7 @@ If you are following Ben Eater's build of an 8-bit breadboard computer (https://
 **) The video series is still on-going so the part list is not complete yet. I will update this list every time a new video has been upload.*
 
 | Part | Amount | Description | Modules |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | 22 gauge wire |  | Breadboard wire | All |
 | 555 timer | 3 |  | Clock |
 | 74LS00 | 1 | Quad NAND gate | RAM |
