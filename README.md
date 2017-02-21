@@ -18,6 +18,7 @@ If you are following Ben Eater's build of an 8-bit breadboard computer (https://
 | 74LS283 | 2 | 4-bit binary full adder | ALU |
 | 74LS32 | 1 | Quad OR gate | Clock |
 | 74LS86 | 2 | Quad XOR gate | ALU |
+| Breadboard | 16 | 830 tie point solderless breadboard | All |
 | Capacitor 0.01µF | 4 |  | Clock, RAM |
 | Capacitor 0.1µF | 2 |  | Clock |
 | Capacitor 2µF | 2 |  | Clock |
