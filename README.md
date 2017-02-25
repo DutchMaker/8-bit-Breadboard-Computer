@@ -22,6 +22,8 @@ If you are following Ben Eater's build of an 8-bit breadboard computer (https://
 | Capacitor 0.01µF | 4 |  | Clock, RAM | |
 | Capacitor 0.1µF | 2 |  | Clock | |
 | Capacitor 2µF | 2 |  | Clock | |
+| CAT28C16AP | 6 | 16 Kbit CMOS parellel EEPROM | Output, Control Unit | http://www.alldatasheet.com/datasheet-pdf/pdf/57374/CATALYST/CAT28C16AP-20T.html |
+| EEPROM programmer | 1 | Required to program the EEPROM chips | Output, Control Unit | http://www.ebay.com/itm/191816776888 |
 | Jumper wires |  | Breadboard jumper wire | All | |
 | LED (blue) | 5 |  | Clock, Instruction Register, RAM | |
 | LED (green) | 5 |  | RAM, Program Counter | |
