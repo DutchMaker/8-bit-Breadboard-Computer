@@ -9,3 +9,6 @@ This is a complete overview of all the parts required for Ben Eater's 8-bit brea
 The parts list is now only available from the Excel sheet and PDF file:
 - https://github.com/DutchMaker/8-bit-Breadboard-Computer/raw/master/parts.xlsx 
 - https://github.com/DutchMaker/8-bit-Breadboard-Computer/raw/master/parts.pdf 
+
+Several resources have been added to help you during the build:
+- https://github.com/DutchMaker/8-bit-Breadboard-Computer/resources
