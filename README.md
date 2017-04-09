@@ -11,4 +11,4 @@ The parts list is now only available from the Excel sheet and PDF file:
 - https://github.com/DutchMaker/8-bit-Breadboard-Computer/raw/master/parts.pdf 
 
 Several resources have been added to help you during the build:
-- https://github.com/DutchMaker/8-bit-Breadboard-Computer/resources
+- https://github.com/DutchMaker/8-bit-Breadboard-Computer/tree/master/resources
