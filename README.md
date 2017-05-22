@@ -4,7 +4,8 @@ This is a complete overview of all the parts required for Ben Eater's 8-bit brea
 I have finished my build, but will keep the parts list updated with the parts mentioned in Ben Eater's videos.  
 Here is a quick demo of my build running a Fibonacci program:
 
-[![Fibonacci on my breadboard computer](https://img.youtube.com/vi/j1o8EYSuVI8/0.jpg)](https://www.youtube.com/watch?v=j1o8EYSuVI8)https://www.youtube.com/watch?v=j1o8EYSuVI8
+[![Fibonacci on my breadboard computer](https://img.youtube.com/vi/j1o8EYSuVI8/0.jpg)](https://www.youtube.com/watch?v=j1o8EYSuVI8)
+https://www.youtube.com/watch?v=j1o8EYSuVI8
 
 **Important notes:** 
 - The video series is still on-going, but I think there will be no more new parts. If new parts are added I will update this list.
